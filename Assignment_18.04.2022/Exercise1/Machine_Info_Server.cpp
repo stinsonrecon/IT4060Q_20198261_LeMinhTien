@@ -1,6 +1,3 @@
-// VD2.cpp : Ví dụ tạo server và nhận dữ liệu từ client (netcat)
-//
-
 #include <stdio.h>
 #include <WinSock2.h>
 #include <string.h> 
